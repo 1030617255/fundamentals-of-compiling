@@ -1,0 +1,14 @@
+#include<iostream>
+#include<stdio.h>
+int a[2002][2];
+int b[2002][2];
+using namespace std;
+int main(){
+ int num = 0;
+ int n;
+char c ='#';
+ 
+ cout<<num<<endl;
+ return 0;
+}
+"sdsdsd" 'c'

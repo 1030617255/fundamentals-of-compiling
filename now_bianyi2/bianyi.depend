@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1543049044 source:h:\代码\xiti lianxi\bianyi\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<map>
+	<set>
+	<stack>
+	"LL1.h"
+	"token1.h"
+
+1543026833 source:h:\代码\xiti lianxi\ll1_token.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<map>
+	<set>
+	<stack>
+
+1543048708 source:h:\代码\xiti lianxi\bianyi\ll1.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<map>
+	<set>
+	<stack>
+	"LL1.h"
+
+1543028324 h:\代码\xiti lianxi\bianyi\ll1.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<map>
+	<set>
+	<stack>
+	"LL1.h"
+
+1543032547 h:\代码\xiti lianxi\bianyi\ll1.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1543043077 h:\代码\xiti lianxi\bianyi\token.h
+	<iostream>
+	<string>
+
+1543043614 source:h:\代码\xiti lianxi\token.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"bianyi/token1.h"
+
+1543043585 h:\代码\xiti lianxi\bianyi\token1.h
+	<iostream>
+	<string>
+
+1543231699 source:h:\代码\xiti lianxi\bianyi\token.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"token1.h"
+	"SYNBL.h"
+
+1543049013 source:h:\代码\xiti lianxi\bianyi\shiyan_delete.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<map>
+	<set>
+	<stack>
+	"LL1.h"
+	"token1.h"
+
+1543233096 source:h:\代码\xiti lianxi\bianyi\synbl.cpp
+	<iostream>
+	"token1.h"
+
+1543233042 h:\代码\xiti lianxi\bianyi\synbl.h
+	<iostream>
+	<vector>
+
+1543231699 h:\代码\xiti lianxi\bianyi\token.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"token1.h"
+	"SYNBL.h"
+

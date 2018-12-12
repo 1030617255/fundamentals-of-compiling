@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1544520037 source:h:\代码\xiti lianxi\now_bianyi2\token.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"token1.h"
+	<stdlib.h>
+
+1543664213 h:\代码\xiti lianxi\now_bianyi2\token1.h
+	<iostream>
+	<string>
+
+1544604995 source:h:\代码\xiti lianxi\now_bianyi2\ll11.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<map>
+	<set>
+	<stack>
+	"LL1.h"
+	<stdlib.h>
+	<list>
+	"SYNBL.h"
+
+1543719556 h:\代码\xiti lianxi\now_bianyi2\ll1.h
+	<iostream>
+	<string>
+	<stdio.h>
+	"token1.h"
+
+1544604928 h:\代码\xiti lianxi\now_bianyi2\synbl.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1544439745 source:h:\代码\xiti lianxi\now_bianyi2\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<map>
+	<set>
+	<stack>
+	"LL1.h"
+	"SYNBL.h"
+
+1544605638 source:h:\代码\xiti lianxi\now_bianyi2\synbl.cpp
+	<iostream>
+	"SYNBL.h"
+	<stdio.h>
+	"LL1.h"
+	<stack>
+	<vector>
+	<stdlib.h>
+
